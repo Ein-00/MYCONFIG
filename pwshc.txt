@@ -1,0 +1,29 @@
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\zash.omp.json" | Invoke-Expression
+
+
+
+
+function duplicate {
+    # Get the current directory
+    $currentDir = Get-Location
+    
+     Start-Process  pwsh -ArgumentList "-NoExit", "-Command", "Set-Location -LiteralPath '$currentDir'"
+}
+
+function ElevatedPwsh{
+    
+    Start-Process pwsh -Verb RunAs 
+
+}
+function lis {
+    Get-ChildItem -Force  @args
+}
+
+#Do Not touch the alias
+Set-Alias admin ElevatedPwsh 
+Set-Alias gw "C:\Program Files (x86)\ghostwriter\ghostwriter.exe"
+
+Set-Alias -Name mc -Value "musikcube.exe"
+Set-Alias clone duplicate
+
+Set-Alias lvim 'C:\Users\Dell\.local\bin\lvim.ps1'
