@@ -1,0 +1,76 @@
+
+    Directory: C:\Users\Dell\Videos\download (1)
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          15-04-2024 10:58 PM        9276530 Absolute Duo op 1.mp4
+-a---          12-11-2018 05:02 PM       16168509 Aoki Hagane no Arpeggio Ars Nova Opening  -蒼き鋼のアルペジオ-.mp4
+-a---          12-11-2018 05:05 PM      101747054 Asura cryin op 1.mp4
+-a---          12-11-2018 05:04 PM       17197038 Asura Cryin op 2 .mp4
+-a---          12-11-2018 05:03 PM       13699300 Beatless op.mp4
+-a---          27-03-2022 11:48 AM      122894689 Black clover ops.mp4
+-a---          27-03-2022 11:33 AM       17353181 Boku no hero academia op.mp4
+-a---          12-11-2018 05:03 PM       17200386 Buddy Complex op.mp4
+-a---          12-11-2018 05:02 PM       14692213 Captain Earth op .mp4
+-a---          12-11-2018 05:02 PM       15812112 Code Geass Lelouch of the Rebellion op 1.mp4
+-a---          15-04-2024 10:48 PM       21813462 Code Geass Lelouch of the Rebellion op 2.mp4
+-a---          15-04-2024 10:50 PM       11492893 Code Geass Lelouch of the Rebellion op 3.mp4
+-a---          15-04-2024 10:51 PM       13211571 Code Geass Lelouch of the Rebellion op 4.mp4
+-a---          15-04-2024 10:52 PM       17489413 Code Geass Lelouch of the Rebellion op 5.mp4
+-a---          27-03-2022 10:55 AM       55046288 Danball senki ops.mp4
+-a---          27-03-2022 11:08 AM        7300230 Danganronpa Ed.mp4
+-a---          12-11-2018 05:03 PM       21600281 Danganronpa The Animation op.mp4
+-a---          15-04-2024 11:01 PM       19544068 Dororo op 1.mp4
+-a---          12-11-2018 05:02 PM        7453468 Gurren Lagann op.mp4
+-a---          12-11-2018 05:03 PM       11475549 Haiyore! Nyaruko-san op.mp4
+-a---          12-11-2018 05:02 PM       16840793 Haiyore! Nyaruko-san W  op.mp4
+-a---          12-11-2018 05:03 PM       13078327 Hundred op.mp4
+-a---          12-11-2018 05:03 PM       12100680 Isekai Maou to Shoukan Shoujo no Dorei Majutsu op.mp4
+-a---          12-11-2018 05:03 PM       55988147 Kakumeiki Valvrave ed1.mp4
+-a---          12-11-2018 05:04 PM       15995647 Kakumeiki Valvrave ed2.mp4
+-a---          12-11-2018 05:02 PM       17900443 Kakumeiki Valvrave ed3.mp4
+-a---          12-11-2018 05:04 PM       18783257 Kakumeiki Valvrave ed4.mp4
+-a---          12-11-2018 05:01 PM       19918289 Kakumeiki Valvrave op1.mp4
+-a---          12-11-2018 05:04 PM       21051275 Kakumeiki Valvrave op2.mp4
+-a---          12-11-2018 05:03 PM       13196313 Knights of Sidonia op.mp4
+-a---          12-11-2018 05:04 PM       13787978 Koreha Zombie Desuka op.mp4
+-a---          16-04-2024 01:41 PM        8322437 Mob Psycho 100 op1.mp4
+-a---          16-04-2024 02:16 PM       24488087 Mob Psycho 100 op2.mp4
+-a---          16-04-2024 01:38 PM       11695298 Mobile suit Double Zeta Gundam op 1.mp4
+-a---          16-04-2024 01:40 PM       11887587 Mobile suit Double Zeta Gundam op 2.mp4
+-a---          12-11-2018 05:04 PM        6758894 Mobile suit Gundam 00 ed 1.mp4
+-a---          12-11-2018 05:04 PM        4785871 Mobile Suit Gundam 00 ed 2.mp4
+-a---          12-11-2018 05:03 PM       15592528 Mobile Suit Gundam 00 op 1.mp4
+-a---          12-11-2018 05:03 PM        8248453 Mobile suit Gundam 00 op 2.mp4
+-a---          27-03-2022 11:16 AM       31234560 Mobile Suit Gundam 00 op 3.mp4
+-a---          27-03-2022 11:16 AM        7669052 Mobile Suit Gundam 00 op 4.mp4
+-a---          15-04-2024 11:02 PM       13937262 Mobile Suit Gundam 1979 Op.mp4
+-a---          12-11-2018 05:04 PM       23614128 Mobile suit Gundam Build Divers - Opening (HD) - 'Diver's High'.mp4
+-a---          12-11-2018 05:03 PM       14796320 Mobile Suit Gundam Iron - blooded Orphans Op 1.mp4
+-a---          12-11-2018 05:05 PM       13856491 Mobile Suit Gundam Iron - Blooded Orphans Op 2.mp4
+-a---          12-11-2018 05:05 PM       11971211 Mobile Suit Gundam Iron-Blooded Orphans op 3.mp4
+-a---          27-03-2022 11:20 AM        8038190 Mobile suit Gundam Iron-Blooded orphans op 4.mp4
+-a---          16-04-2024 01:29 PM       16294061 Mobile Suit Gundam Seed Destiny Op 1.mp4
+-a---          16-04-2024 01:30 PM       25661082 Mobile Suit Gundam Seed Destiny Op 2.mp4
+-a---          16-04-2024 01:31 PM        7567827 Mobile Suit Gundam Seed Destiny Op 3.mp4
+-a---          16-04-2024 01:31 PM       18253213 Mobile Suit Gundam Seed Destiny Op 4.mp4
+-a---          16-04-2024 01:32 PM       29474701 Mobile Suit Gundam Seed Destiny Op 5.mp4
+-a---          16-04-2024 01:26 PM        7629046 Mobile Suit Gundam Seed Op 1.mp4
+-a---          16-04-2024 01:27 PM        8171513 Mobile Suit Gundam Seed Op 2.mp4
+-a---          16-04-2024 01:28 PM        7856568 Mobile Suit Gundam Seed Op 3.mp4
+-a---          16-04-2024 01:28 PM        8652581 Mobile Suit Gundam Seed Op 4.mp4
+-a---          15-04-2024 11:04 PM       12012309 Mobile Suit Gundam Wing op 1.mp4
+-a---          15-04-2024 11:06 PM       16465854 Mobile Suit Gundam Wing op 2.mp4
+-a---          16-04-2024 01:37 PM       16849488 Mobile Suit Zeta Gundam  op 1.mp4
+-a---          16-04-2024 01:39 PM        5887322 Mobile Suit Zeta Gundam  op 2.mp4
+-a---          12-11-2018 05:02 PM       15038603 Muv-Luv Alternative Total Eclipse (TV) OP 1.mp4
+-a---          12-11-2018 05:04 PM       12812174 Rakudai Kishi no Cavalry op.mp4
+-a---          27-03-2022 12:23 PM       20913667 SD Gundam Cross Rays OST.mp4
+-a---          12-11-2018 05:04 PM       18568427 Seisen Cerberus ed.mp4
+-a---          12-11-2018 05:04 PM       13399879 Seisen Cerberus op.mp4
+-a---          12-11-2018 05:05 PM       24219116 Soukyuu no Fafner Dead Aggressor Exodus Op 1.mp4
+-a---          15-04-2024 10:37 PM       11075668 Soukyuu no Fafner Dead Aggressor Exodus Op 2.mp4
+-a---          27-03-2022 11:25 AM        7774150 Soukyuu no Fafner Dead Aggressor.mp4
+-a---          15-04-2024 11:05 PM       18273189 Soukyuu no Fafner Heaven and Earth.mp4
+-a---          12-11-2018 05:02 PM       10944106 Sousei no Onmyouji op.mp4
+
