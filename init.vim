@@ -47,6 +47,8 @@ Plug 'akinsho/bufferline.nvim', { 'tag': '*' }
 Plug 'kien/rainbow_parentheses.vim'
 Plug 'nvim-lualine/lualine.nvim'
 Plug 'akinsho/toggleterm.nvim', {'tag' : '*'}
+Plug 'nvzone/volt'
+Plug 'nvzone/timerly'
 call plug#end()
 
 colorscheme carbonized-dark 
@@ -92,9 +94,9 @@ EOF
 
 "Mappings"
 "Floaterm"
-nnoremap <M-i>:ToggleTerm direction="float"<CR>
+nnoremap <A-t> :TimerlyToggle <CR>
 imap <M-i> <Esc>:FloatermToggle<CR>
-tnoremap <M-i> <C-\><C-n>:FloatermToggle<CR>
+"tnoremap <M-i> <C-\><C-n>:FloatermToggle<CR>"
 "Comments"
 nnoremap <M-c> :Commentary<CR>
 vnoremap <M-c> :Commentary<CR>
