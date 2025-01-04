@@ -25,5 +25,5 @@ Set-Alias gw "C:\Program Files (x86)\ghostwriter\ghostwriter.exe"
 
 Set-Alias -Name mc -Value "musikcube.exe"
 Set-Alias clone duplicate
-
-Set-Alias lvim 'C:\Users\Dell\.local\bin\lvim.ps1'
+Set-Alias touch New-Item
+#Set-Alias lvim 'C:\Users\Dell\.local\bin\lvim.ps1'
